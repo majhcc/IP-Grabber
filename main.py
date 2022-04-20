@@ -20,7 +20,7 @@ def run_server():
     uvicorn.run(app, port=5050, log_level="critical")
 
 def ngroka():
-    ngrok.set_auth_token('1rXP6ntn53SWlaxcGggUlFVeHA0_4Pj98qAkNebWC9iuNbyfz')
+    ngrok.set_auth_token('HERE YOUR API KEY')
     url = ngrok.connect(5050)
     print(url)
 
