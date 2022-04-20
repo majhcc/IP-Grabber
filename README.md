@@ -1,7 +1,7 @@
 # IP-Grabber
 
 ## Run
-First, `main.py` must be modified. you must edit his line and put your ngrok api key https://github.com/majhcc/IP-Grabber/blob/8bf88aa1524ea70936ad74053c6d592568e86345/main.py#L23 t
+First, `main.py` must be modified. you must edit his line and put your ngrok api key https://github.com/majhcc/IP-Grabber/blob/main.py#L23 t
 To run the script in windows only download this repo then run this command inside powershell
 
 ```powershell
